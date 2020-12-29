@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zTn8nX2iR1N6K/ed8ws1xKKQAbZ3Hq8GAcN+6gqrvCgcbU9Bx3onTEVFNBA8fPz6w025lOEPFkBi6YyzRr2d+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\CanaryLogParser\\CanaryLogParser\\CanaryLogParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\michael\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

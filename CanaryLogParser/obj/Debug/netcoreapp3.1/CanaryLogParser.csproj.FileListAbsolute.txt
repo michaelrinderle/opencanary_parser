@@ -1,0 +1,16 @@
+C:\Dev\CanaryLogParser\CanaryLogParser\obj\Debug\netcoreapp3.1\CanaryLogParser.AssemblyInfoInputs.cache
+C:\Dev\CanaryLogParser\CanaryLogParser\obj\Debug\netcoreapp3.1\CanaryLogParser.AssemblyInfo.cs
+C:\Dev\CanaryLogParser\CanaryLogParser\bin\Debug\netcoreapp3.1\CanaryLogParser.exe
+C:\Dev\CanaryLogParser\CanaryLogParser\bin\Debug\netcoreapp3.1\CanaryLogParser.deps.json
+C:\Dev\CanaryLogParser\CanaryLogParser\bin\Debug\netcoreapp3.1\CanaryLogParser.runtimeconfig.json
+C:\Dev\CanaryLogParser\CanaryLogParser\bin\Debug\netcoreapp3.1\CanaryLogParser.runtimeconfig.dev.json
+C:\Dev\CanaryLogParser\CanaryLogParser\bin\Debug\netcoreapp3.1\CanaryLogParser.dll
+C:\Dev\CanaryLogParser\CanaryLogParser\bin\Debug\netcoreapp3.1\CanaryLogParser.pdb
+C:\Dev\CanaryLogParser\CanaryLogParser\obj\Debug\netcoreapp3.1\CanaryLogParser.dll
+C:\Dev\CanaryLogParser\CanaryLogParser\obj\Debug\netcoreapp3.1\CanaryLogParser.pdb
+C:\Dev\CanaryLogParser\CanaryLogParser\obj\Debug\netcoreapp3.1\CanaryLogParser.genruntimeconfig.cache
+C:\Dev\CanaryLogParser\CanaryLogParser\bin\Debug\netcoreapp3.1\opencanary.log
+C:\Dev\CanaryLogParser\CanaryLogParser\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Dev\CanaryLogParser\CanaryLogParser\obj\Debug\netcoreapp3.1\CanaryLogParser.csprojAssemblyReference.cache
+C:\Dev\CanaryLogParser\CanaryLogParser\obj\Debug\netcoreapp3.1\CanaryLogParser.csproj.CoreCompileInputs.cache
+C:\Dev\CanaryLogParser\CanaryLogParser\obj\Debug\netcoreapp3.1\CanaryLogParser.csproj.CopyComplete
